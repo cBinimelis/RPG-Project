@@ -1,0 +1,6 @@
+Informes
+1.- Usuarios con su nivel y dinero a la fecha actual
+2.- Listado de objetos comprados para un usuario seleccionado (Estado de cuenta)
+3.- El día más jugado 
+4.- Ataques seleccionados según usuario
+5.- Registros según día

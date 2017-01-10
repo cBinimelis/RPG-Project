@@ -1,0 +1,7 @@
+C:\Users\Kuro\Downloads\RPG-Project\rpg-project\Database1\bin\Debug\Database1.dacpac
+C:\Users\Kuro\Downloads\RPG-Project\rpg-project\Database1\obj\Debug\Model.xml
+C:\Users\Kuro\Downloads\RPG-Project\rpg-project\Database1\obj\Debug\refactor.xml
+C:\Users\Kuro\Downloads\RPG-Project\rpg-project\Database1\obj\Debug\postdeploy.sql
+C:\Users\Kuro\Downloads\RPG-Project\rpg-project\Database1\obj\Debug\predeploy.sql
+C:\Users\Kuro\Downloads\RPG-Project\rpg-project\Database1\obj\Debug\Database1.dll
+C:\Users\Kuro\Downloads\RPG-Project\rpg-project\Database1\obj\Debug\Database1.pdb

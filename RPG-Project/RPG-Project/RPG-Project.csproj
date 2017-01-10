@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9285FFE-D8CD-49AC-B2B4-4BA420B4333C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RPG_Project</RootNamespace>
+    <AssemblyName>RPG-Project</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Atack.cs" />
+    <Compile Include="Ataque1.cs" />
+    <Compile Include="Ataque2.cs" />
+    <Compile Include="Ataque3.cs" />
+    <Compile Include="Ataque4.cs" />
+    <Compile Include="Aventura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aventura.Designer.cs">
+      <DependentUpon>Aventura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Batalla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Batalla.Designer.cs">
+      <DependentUpon>Batalla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Character.cs" />
+    <Compile Include="conexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conexion.Designer.cs">
+      <DependentUpon>conexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enemy.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameMaster.cs" />
+    <Compile Include="GM-Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GM-Menu.Designer.cs">
+      <DependentUpon>GM-Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GM.Designer.cs">
+      <DependentUpon>GM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Habilidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Habilidades.Designer.cs">
+      <DependentUpon>Habilidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Ataques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Ataques.Designer.cs">
+      <DependentUpon>Mantenedor_Ataques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Bloqueos_GM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Bloqueos_GM.Designer.cs">
+      <DependentUpon>Mantenedor_Bloqueos_GM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Bloqueos_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Bloqueos_User.Designer.cs">
+      <DependentUpon>Mantenedor_Bloqueos_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Estados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Estados.Designer.cs">
+      <DependentUpon>Mantenedor_Estados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_GameMasters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_GameMasters.Designer.cs">
+      <DependentUpon>Mantenedor_GameMasters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Monstruos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Monstruos.Designer.cs">
+      <DependentUpon>Mantenedor_Monstruos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_NPCs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_NPCs.Designer.cs">
+      <DependentUpon>Mantenedor_NPCs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Personajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Personajes.Designer.cs">
+      <DependentUpon>Mantenedor_Personajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Tipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Tipos.Designer.cs">
+      <DependentUpon>Mantenedor_Tipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenedores\Mantenedor_Usuario.Designer.cs">
+      <DependentUpon>Mantenedor_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monster.cs" />
+    <Compile Include="NonPlayableCharacters.cs" />
+    <Compile Include="PJ-Select.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PJ-Select.Designer.cs">
+      <DependentUpon>PJ-Select.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Posada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Posada.Designer.cs">
+      <DependentUpon>Posada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PvP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PvP.Designer.cs">
+      <DependentUpon>PvP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReemplazoHabilidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReemplazoHabilidades.Designer.cs">
+      <DependentUpon>ReemplazoHabilidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQL.cs" />
+    <Compile Include="Tienda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tienda.Designer.cs">
+      <DependentUpon>Tienda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="_RPG_ProjectDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_RPG_ProjectDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aventura.resx">
+      <DependentUpon>Aventura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Batalla.resx">
+      <DependentUpon>Batalla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="conexion.resx">
+      <DependentUpon>conexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GM-Menu.resx">
+      <DependentUpon>GM-Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GM.resx">
+      <DependentUpon>GM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Habilidades.resx">
+      <DependentUpon>Habilidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_Ataques.resx">
+      <DependentUpon>Mantenedor_Ataques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_Bloqueos_GM.resx">
+      <DependentUpon>Mantenedor_Bloqueos_GM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_Bloqueos_User.resx">
+      <DependentUpon>Mantenedor_Bloqueos_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_Estados.resx">
+      <DependentUpon>Mantenedor_Estados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_GameMasters.resx">
+      <DependentUpon>Mantenedor_GameMasters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_Monstruos.resx">
+      <DependentUpon>Mantenedor_Monstruos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_NPCs.resx">
+      <DependentUpon>Mantenedor_NPCs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_Personajes.resx">
+      <DependentUpon>Mantenedor_Personajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_Tipos.resx">
+      <DependentUpon>Mantenedor_Tipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenedores\Mantenedor_Usuario.resx">
+      <DependentUpon>Mantenedor_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PJ-Select.resx">
+      <DependentUpon>PJ-Select.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Posada.resx">
+      <DependentUpon>Posada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PvP.resx">
+      <DependentUpon>PvP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReemplazoHabilidades.resx">
+      <DependentUpon>ReemplazoHabilidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tienda.resx">
+      <DependentUpon>Tienda.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="IDataSet1.xsc">
+      <DependentUpon>IDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="IDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="IDataSet1.xss">
+      <DependentUpon>IDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="_RPG_ProjectDataSet.xsc">
+      <DependentUpon>_RPG_ProjectDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_RPG_ProjectDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_RPG_ProjectDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_RPG_ProjectDataSet.xss">
+      <DependentUpon>_RPG_ProjectDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warrior.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mage.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archer.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Skull.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Slime.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pixel-art-13.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Posada.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GM.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\finn_and_jake_by_abysswolf-d6bgo83.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attacks.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chars.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tipos.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bloqueos.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Estados.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPCs.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monstruos.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GMs.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attacks2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GMs2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jolteon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zombies.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Retro-Coin-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F1 back.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MM back.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AdvBack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Batter.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Bug.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Chicken.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Eater.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Fatguy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Gary.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Hatty.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Mutant.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monsters\Pretty.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Big Mac.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Bip Bup Bop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Breeeep.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Bubbles.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Cold Fire.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Dino-Chan.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Domo-Kyun.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Dragon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Keroro.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Manite.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Moquitos.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Mordisquitos.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\No es Charizard.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\No es Kirby.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Princesa Lady Grumos.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Te Agilaste.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Tengo Dinero y Tu No.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Vida Laboral.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NPC\Flora.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BattleBack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reemplazo.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

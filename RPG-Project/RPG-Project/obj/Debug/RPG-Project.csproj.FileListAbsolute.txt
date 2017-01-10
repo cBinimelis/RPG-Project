@@ -1,0 +1,324 @@
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+c:\users\crist\onedrive\documentos\visual studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+F:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+F:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+F:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+F:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+F:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+F:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+H:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+H:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+H:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+H:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+H:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+H:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+H:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+C:\Users\Kuro\Desktop\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_GM.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\bin\Debug\RPG-Project.exe.config
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG-Project.exe
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG-Project.pdb
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\bin\Debug\RPG-Project.exe
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\bin\Debug\RPG-Project.pdb
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.GM.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_GM.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+C:\Users\Kuro\Desktop\RPG-Project (1)\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+F:\RPG-Project (1)\RPG-Project\bin\Debug\RPG-Project.exe.config
+F:\RPG-Project (1)\RPG-Project\obj\Debug\RPG-Project.exe
+F:\RPG-Project (1)\RPG-Project\obj\Debug\RPG-Project.pdb
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Registro.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_GM.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PvP.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Registro.resources
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PvP.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_GM.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PvP.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Registro.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+D:\igloo\19369903-0\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_GM.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PvP.resources
+F:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Registro.resources
+E:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+E:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+E:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+D:\igloo\18804478-6\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.ReemplazoHabilidades.resources
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.ReemplazoHabilidades.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_GM.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PvP.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.ReemplazoHabilidades.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Registro.resources
+C:\Users\Kuro\Downloads\RPG-Project\RPG-Project\obj\Debug\RPG_Project.conexion.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.conexion.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_GM.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PvP.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.ReemplazoHabilidades.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Registro.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+C:\Users\Kuro\Downloads\Login con jsp y mysql y sesiones\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+G:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+G:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+G:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
+G:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe
+G:\RPG-Project\RPG-Project\bin\Debug\RPG-Project.pdb
+G:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csprojResolveAssemblyReference.cache
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Aventura.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Batalla.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.conexion.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Form1.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM_Menu.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.GM.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Habilidades.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.MainMenu.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Ataques.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_GM.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Bloqueos_User.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Estados.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_GameMasters.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Monstruos.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_NPCs.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Personajes.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Tipos.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Mantenedores.Mantenedor_Usuario.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PJ_Select.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Posada.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Properties.Resources.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.PvP.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.ReemplazoHabilidades.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Registro.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG_Project.Tienda.resources
+G:\RPG-Project\RPG-Project\obj\Debug\RPG-Project.csproj.GenerateResource.Cache
+C:\Users\crist\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG_Project.conexion.resources
+C:\Users\crist\Desktop\Disco Respaldo\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\bin\Debug\RPG-Project.exe.config
+C:\Users\crist\Desktop\Disco Respaldo\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.exe
+C:\Users\crist\Desktop\Disco Respaldo\Documents\Visual Studio 2013\Projects\RPG-Project\RPG-Project\obj\Debug\RPG-Project.pdb
